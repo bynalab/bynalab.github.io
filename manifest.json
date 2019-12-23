@@ -1,0 +1,16 @@
+{
+  "name": "Bynalab",
+  "short_name": "Bynalab",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#2A3443",
+  "description": "A personal web",
+  "theme_color": "#2A3443",
+  "icons": [
+    {
+      "src": "abdusalam.jpg",
+      "sizes": "512x512",
+      "type": "image/jpg"
+    }
+  ]
+}
