@@ -2,4 +2,4 @@
 
  My personal website
  
- URL: https://bynalab.com/
+ URL: <a href="https://bynalab.com/" targe="_blank">https://bynalab.com/</a>
