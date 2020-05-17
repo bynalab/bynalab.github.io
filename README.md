@@ -2,4 +2,4 @@
 
  My personal website
  
- URL: bynalab.com
+ URL: https://bynalab.com/
