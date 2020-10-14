@@ -1,7 +1,7 @@
 {
   "name": "Binary Laboratory",
   "short_name": "Bynalab",
-  "start_url": ".",
+  "start_url": "https://bynalab.com/",
   "display": "standalone",
   "background_color": "#2A3443",
   "description": "A personal web",
