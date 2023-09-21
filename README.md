@@ -20,4 +20,4 @@
  
  Feel free to fork, clone, modify... It's all yours.
  
- URL: https://bynalab.com/
+ URL: https://bynalab.com.ng/
